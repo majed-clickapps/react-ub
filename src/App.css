@@ -1,0 +1,36 @@
+.nav-tools{
+  padding-bottom: 100px;
+}
+
+.nav-tools .container{
+  width: 980px;
+}
+
+section pre{
+  box-shadow: 0 0 6px 0px rgba(177, 177, 176, 0.32);
+}
+
+.nav-view{
+  padding-top: 100px;
+}
+
+.nav-code{
+  padding: 50px 0;
+}
+
+.listLabel ul li{
+  list-style:none;
+}
+
+.label-color .color{
+  width: 36px;
+  height: 14px;
+  border-radius: 2px;
+  border: 1px solid #d8d8d8;
+  position: absolute;
+  cursor: pointer;
+}
+
+.label-color h5{
+  padding-left: 50px;
+}
